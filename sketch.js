@@ -8,7 +8,7 @@ function setup() {
   function setup() {
   
     
-  createCanvas(1850, 1000);
+  createCanvas(1850, 1100);
   
   background("black");
   
